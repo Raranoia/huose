@@ -1,52 +1,17 @@
-# Project Introduction
-This project is designed to provide an efficient solution for managing home automation systems.
+# Project Overview
 
-# Architecture Diagram
-![Architecture Diagram](link_to_diagram)  
-*A graphical representation of the architecture will be included here.*  
+The Huose project is designed to provide a comprehensive solution for managing home automation systems. It aims to enable users to control devices and monitor their home environment efficiently.
 
-# Quick Start Guide
-1. Clone the repository: `git clone <repository-url>`  
-2. Install dependencies: `npm install`  
-3. Start the application: `npm start`  
+# Project Structure
 
-# Directory Structure
-```
-/  
-├── src/  
-│   ├── components/  
-│   ├── utils/  
-│   └── services/  
-├── public/  
-└── README.md
-```
+The project is organized in the following manner:
 
-# Main Feature Modules
-- User Management  
-- Device Control  
-- Scheduling  
-- Notifications  
+- **/src**: Contains the source code of the application.
+- **/docs**: Documentation files and resources.
+- **/tests**: Unit and integration tests for the application.
+- **README.md**: This file, providing an overview and structure of the project.
+- **LICENSE**: The license information for the project.
 
-# Security Features
-- OAuth2 Authentication  
-- Data Encryption  
-- Role-Based Access Control  
+## Getting Started
 
-# Database Design
-The database schema consists of tables for users, devices, and logs. Further details will follow.
-
-# API Documentation
-The API follows RESTful principles, and documentation is available at `/api/docs`.  
-
-# Technology Stack
-- Node.js  
-- Express  
-- MongoDB  
-- React  
-- Docker  
-
-# Deployment Guide
-Follow these steps to deploy the project to a cloud provider or on-premises.
-
-# Development Guide
-For contributing to this project, please follow the code of conduct and check the contributing guidelines.
+To get started with the Huose project, clone the repository and install the necessary dependencies. Refer to the documentation in the `/docs` folder for more detailed setup instructions.
